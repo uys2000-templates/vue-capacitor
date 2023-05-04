@@ -1,0 +1,11 @@
+{
+  "appId": "com.uys200.vue",
+  "appName": "vue",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
